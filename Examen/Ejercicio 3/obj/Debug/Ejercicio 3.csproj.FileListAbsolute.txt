@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+C:\Users\Lenovo\Documents\Academico\EMI\3er Semestre\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\Lenovo\Documents\Academico\EMI\3er Semestre\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Lenovo\Documents\Academico\EMI\3er Semestre\POO\Final\periodoFinal Forms\Examen\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
