@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\bin\Debug\controlForms.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\bin\Debug\controlForms.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\bin\Debug\controlForms.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\obj\Debug\controlForms.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\obj\Debug\controlForms.Form1.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\obj\Debug\controlForms.Properties.Resources.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\obj\Debug\controlForms.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\obj\Debug\controlForms.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlForms\controlForms\obj\Debug\controlForms.pdb

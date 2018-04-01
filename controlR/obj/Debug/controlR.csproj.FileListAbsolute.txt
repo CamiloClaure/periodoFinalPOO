@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlR\bin\Debug\controlR.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlR\bin\Debug\controlR.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlR\bin\Debug\controlR.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlR\obj\Debug\controlR.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlR\obj\Debug\controlR.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\controlR\obj\Debug\controlR.pdb
