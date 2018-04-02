@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\herencia\bin\Debug\herencia.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\herencia\bin\Debug\herencia.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\herencia\bin\Debug\herencia.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\herencia\obj\Debug\herencia.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\herencia\obj\Debug\herencia.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\herencia\obj\Debug\herencia.csprojResolveAssemblyReference.cache

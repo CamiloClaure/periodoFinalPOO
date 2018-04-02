@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\TryCatch\obj\Debug\TryCatch.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\TryCatch\obj\Debug\TryCatch.pdb

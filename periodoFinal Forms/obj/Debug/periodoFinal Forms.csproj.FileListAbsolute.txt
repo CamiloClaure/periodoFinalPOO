@@ -1,0 +1,21 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\bin\Debug\periodoFinal Forms.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\bin\Debug\periodoFinal Forms.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\bin\Debug\periodoFinal Forms.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal Forms.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Form1.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Properties.Resources.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal Forms.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal Forms.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal Forms.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Fibonacci.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Ejercicio3R.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Ejercicio4cs.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Ejercicio5.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Ejercicio_9.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Ejercicio14.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal_Forms.Ejercicio_15.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\obj\Debug\periodoFinal Forms.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\periodoFinal Forms\bin\Debug\AxInterop.WMPLib.dll
