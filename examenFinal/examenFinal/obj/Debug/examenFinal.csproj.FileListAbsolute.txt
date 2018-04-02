@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\examenFinal.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\examenFinal.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\examenFinal.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.Form1.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.Properties.Resources.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.Vectores.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.Cadenas.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\obj\Debug\examenFinal.Menu.resources
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\controlForms.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\controlR.exe
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\controlForms.pdb
+C:\Users\Lenovo\Documents\EMI\POO\Final\periodoFinal Forms\examenFinal\examenFinal\bin\Debug\controlR.pdb
